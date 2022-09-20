@@ -11,7 +11,7 @@ h1, h2, h3, h4, p {
 
 #bff-img {
     width: 30%;
-    border-radius: 50px;
+    border-radius: 100%;
     border: 6px solid lightcoral;
     margin-bottom: 10px;
 }
