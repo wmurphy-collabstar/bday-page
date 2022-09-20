@@ -1,5 +1,5 @@
 # My birthday site:
-check it out here: 
+check it out here: https://wmurphy-collabstar.github.io/bday-page/
 
 ## About Scrimba
 
